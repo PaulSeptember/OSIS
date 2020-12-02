@@ -1,4 +1,4 @@
-<body>
+ $("#div1").html(<body>
 
 <h2>Table With Border</h2>
 
@@ -537,3 +537,4 @@ v
 </table>
 
 </body>
+);
